@@ -4,11 +4,12 @@
     width: 160px;
     position: fixed;
     z-index: 1;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
     background-color:bisque;
     overflow-x: hidden;
-    padding-top: 20;
+    border-color:black;
+    padding-top:30px;
 }
 
 /* sidebar links */
@@ -27,9 +28,11 @@
 
 .content {
     margin-left: 160px;
+    margin-top: 50px;
     padding : 0px 10px;
     text-align: center;
     font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 @media screen and (max-height:450px) {
