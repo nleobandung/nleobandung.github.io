@@ -23,21 +23,3 @@ Work experience
 * Learning Assistant (Undergraduate TA), UCLA (September 2025 – December 2025)
 * AI Researcher, Computer Security and Privacy Lab, UCLA (November 2025 – Present)
 * Researcher, Summer Undergraduate Research Program, UCLA (June 2024 – August 2024)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
