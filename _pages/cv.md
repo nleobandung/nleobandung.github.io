@@ -11,35 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of California, Los Angeles
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development Engineer Intern, Amazon (June 2026 – September 2026)
+* Software Engineering Intern, Leidos (January 2026 – June 2026)
+* Research Aide, University at Albany (June 2025 – September 2025)
+* Software Engineering Intern, Life Stages (June 2025 – September 2025)
+* Learning Assistant (Undergraduate TA), UCLA (September 2025 – December 2025)
+* AI Researcher, Computer Security and Privacy Lab, UCLA (November 2025 – Present)
+* Researcher, Summer Undergraduate Research Program, UCLA (June 2024 – August 2024)
 
 Publications
 ======
@@ -58,7 +40,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
